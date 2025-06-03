@@ -10,7 +10,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: [Github Pages]()
+- Live Site URL: [Github Pages](https://vassiliproko.github.io/blog-preview-card-main)
 
 ### Built with
 
